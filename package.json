@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-test",
+  "version": "1.0.0",
+  "description": "node test",
+  "main": "tools.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iUAP-FE/nodejs.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "GuoYongfeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iUAP-FE/nodejs/issues"
+  },
+  "homepage": "https://github.com/iUAP-FE/nodejs#readme",
+  "dependencies": {
+    "async": "^1.5.0",
+    "iconv-lite": "^0.4.13"
+  }
+}
